@@ -76,8 +76,11 @@ Notebook:
 # Repository Structure
 
 ├── IBM_Data_Analyst_Capstone_Project.ipynb
+
 ├── Job_Market_Web_Scraping_Analysis.ipynb
+
 ├── scraped_job_skill_demand.csv
+
 └── README.md
 
 
